@@ -39,7 +39,7 @@ Problem-solving and critical thinking have been central to my professional journ
 
 
 #### Teamwork and Collaboration
-I've consistently demonstrated my commitment to teamwork and collaboration. As a Teaching Assistant, I collaborated closely with SENCo, teachers, and learning support workers to ensure comprehensive student support. This experience reinforced my collaborative skills, emphasizing the importance of diverse perspectives and feedback. These qualities have translated seamlessly into tech-related roles, where cross-functional collaboration and synergy are paramount for project success
+I've consistently demonstrated my commitment to teamwork and collaboration. As a Teaching Assistant, I collaborated closely with SENCo, teachers, and learning support workers to ensure comprehensive student support. This experience reinforced my collaborative skills, emphasizing the importance of diverse perspectives and feedback. These qualities have translated seamlessly into tech-related roles, where cross-functional collaboration is paramount for project success.
 
 
 
