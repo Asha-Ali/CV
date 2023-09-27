@@ -1,6 +1,6 @@
 # Asha Ali
 
-A recent Makers coding boot-camp graduate with a passion for coding and problem-solving. Coming from a background in education, I eventually found a promising path in tech and discovered the transformative power of technology in bringing ideas to life. I thoroughly enjoy working collaboratively in teams, embracing new challenges, and maintaining a commitment to lifelong learning. My experiences have taught me the value of inclusivity, feedback, and open communication in a professional setting. I'm now on the lookout for an opportunity to apply my skills and enthusiasm, eager to contribute to innovative tech projects and make a meaningful impact in the industry.
+A recent Makers coding boot-camp graduate with a passion for coding and problem-solving. Coming from a background in education, I found a promising path in tech and discovered the transformative power of technology in bringing ideas to life. I thoroughly enjoy working collaboratively in teams, embracing new challenges, and maintaining a commitment to lifelong learning. My experiences have taught me the value of inclusivity, feedback, and open communication in a professional setting. I'm now on the lookout for an opportunity to apply my skills and enthusiasm, eager to contribute to innovative tech projects and make a meaningful impact in the industry.
 
 ## Projects
 
